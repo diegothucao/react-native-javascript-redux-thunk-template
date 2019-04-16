@@ -1982,16 +1982,16 @@
  </array>
  <key>files</key>
  <array>
-  <string>/Users/thucao/Desktop/Learning/DemoApp/node_modules/react-native/ReactCommon/yoga/yoga/Yoga.cpp</string>
+  <string>/Users/thucao/Desktop/2/node_modules/react-native/ReactCommon/yoga/yoga/Yoga.cpp</string>
   <string>/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include/c++/v1/math.h</string>
   <string>/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.2.sdk/usr/include/math.h</string>
   <string>/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include/c++/v1/iterator</string>
-  <string>/Users/thucao/Desktop/Learning/DemoApp/node_modules/react-native/ReactCommon/yoga/yoga/Utils.h</string>
-  <string>/Users/thucao/Desktop/Learning/DemoApp/node_modules/react-native/ReactCommon/yoga/yoga/YGNode.h</string>
-  <string>/Users/thucao/Desktop/Learning/DemoApp/node_modules/react-native/ReactCommon/yoga/yoga/YGMarker.h</string>
-  <string>/Users/thucao/Desktop/Learning/DemoApp/node_modules/react-native/ReactCommon/yoga/yoga/Yoga-internal.h</string>
-  <string>/Users/thucao/Desktop/Learning/DemoApp/node_modules/react-native/ReactCommon/yoga/yoga/YGFloatOptional.h</string>
-  <string>/Users/thucao/Desktop/Learning/DemoApp/node_modules/react-native/ReactCommon/yoga/yoga/instrumentation.h</string>
+  <string>/Users/thucao/Desktop/2/node_modules/react-native/ReactCommon/yoga/yoga/Utils.h</string>
+  <string>/Users/thucao/Desktop/2/node_modules/react-native/ReactCommon/yoga/yoga/YGNode.h</string>
+  <string>/Users/thucao/Desktop/2/node_modules/react-native/ReactCommon/yoga/yoga/YGMarker.h</string>
+  <string>/Users/thucao/Desktop/2/node_modules/react-native/ReactCommon/yoga/yoga/Yoga-internal.h</string>
+  <string>/Users/thucao/Desktop/2/node_modules/react-native/ReactCommon/yoga/yoga/YGFloatOptional.h</string>
+  <string>/Users/thucao/Desktop/2/node_modules/react-native/ReactCommon/yoga/yoga/instrumentation.h</string>
  </array>
 </dict>
 </plist>
