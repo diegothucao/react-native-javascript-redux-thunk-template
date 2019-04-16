@@ -1,5 +1,4 @@
 import React from 'react'
-import PropTypes from 'prop-types'
 import { View, Text, Image, TouchableOpacity, StyleSheet } from 'react-native'
 import { priceDisplay } from '../util/util'
 

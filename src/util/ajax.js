@@ -1,4 +1,4 @@
-const apiHost = 'https://bakesaleforgood.com';
+const apiHost = 'https://bakesaleforgood.com'
 
 export default {
 

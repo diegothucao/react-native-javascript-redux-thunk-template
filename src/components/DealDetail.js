@@ -1,6 +1,6 @@
 import React from 'react'
 import { connect } from 'react-redux'
-import {fetchDetail, initialDeal} from '../redux/action/deal/DealDetailAction'
+import {fetchDetail} from '../redux/action/deal/DealDetailAction'
 import {
   View,
   Text,
