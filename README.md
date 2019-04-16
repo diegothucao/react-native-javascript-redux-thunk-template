@@ -4,7 +4,8 @@ This is an essential example to build react-native app using Javascript and Redu
 Step to run
 1. Checkout this respo
 2. `yarn install`
-3. `react-native run-ios` OR `react-native run-android`
+3. `react-native eject`
+4. `react-native run-ios` OR `react-native run-android`
 
 Define actions 
 
