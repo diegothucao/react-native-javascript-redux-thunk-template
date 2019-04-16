@@ -1,0 +1,22 @@
+dependencies: \
+  /Users/thucao/Desktop/Learning/DemoApp/node_modules/react-native/React/Views/SafeAreaView/RCTSafeAreaShadowView.m \
+  /Users/thucao/Desktop/Learning/DemoApp/node_modules/react-native/React/Views/SafeAreaView/RCTSafeAreaShadowView.h \
+  /Users/thucao/Desktop/Learning/DemoApp/node_modules/react-native/React/Views/RCTShadowView.h \
+  /Users/thucao/Desktop/Learning/DemoApp/node_modules/react-native/React/Views/RCTComponent.h \
+  /Users/thucao/Desktop/Learning/DemoApp/node_modules/react-native/React/Views/RCTLayout.h \
+  /Users/thucao/Desktop/Learning/DemoApp/node_modules/react-native/React/Base/RCTDefines.h \
+  /Users/thucao/Desktop/Learning/DemoApp/node_modules/react-native/React/DevSupport/RCTInspectorDevServerHelper.h \
+  /Users/thucao/Desktop/Learning/DemoApp/node_modules/react-native/React/DevSupport/RCTPackagerConnection.h \
+  /Users/thucao/Desktop/Learning/DemoApp/ios/build/DemoApp/Build/Products/Debug-iphonesimulator/include/yoga/Yoga.h \
+  /Users/thucao/Desktop/Learning/DemoApp/ios/build/DemoApp/Build/Products/Debug-iphonesimulator/include/yoga/YGEnums.h \
+  /Users/thucao/Desktop/Learning/DemoApp/ios/build/DemoApp/Build/Products/Debug-iphonesimulator/include/yoga/YGMacros.h \
+  /Users/thucao/Desktop/Learning/DemoApp/ios/build/DemoApp/Build/Products/Debug-iphonesimulator/include/yoga/YGValue.h \
+  /Users/thucao/Desktop/Learning/DemoApp/node_modules/react-native/React/Base/RCTRootView.h \
+  /Users/thucao/Desktop/Learning/DemoApp/node_modules/react-native/React/Base/RCTBridge.h \
+  /Users/thucao/Desktop/Learning/DemoApp/node_modules/react-native/React/Base/RCTBridgeDelegate.h \
+  /Users/thucao/Desktop/Learning/DemoApp/node_modules/react-native/React/Base/RCTJavaScriptLoader.h \
+  /Users/thucao/Desktop/Learning/DemoApp/node_modules/react-native/React/Base/RCTBridgeModule.h \
+  /Users/thucao/Desktop/Learning/DemoApp/node_modules/react-native/React/Base/RCTFrameUpdate.h \
+  /Users/thucao/Desktop/Learning/DemoApp/node_modules/react-native/React/Base/RCTInvalidating.h \
+  /Users/thucao/Desktop/Learning/DemoApp/node_modules/react-native/React/Base/RCTAssert.h \
+  /Users/thucao/Desktop/Learning/DemoApp/node_modules/react-native/React/Views/SafeAreaView/RCTSafeAreaViewLocalData.h
