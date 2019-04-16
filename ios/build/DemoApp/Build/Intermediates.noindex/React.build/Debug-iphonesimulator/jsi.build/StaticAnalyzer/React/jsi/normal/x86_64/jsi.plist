@@ -1835,8 +1835,8 @@
  <key>files</key>
  <array>
   <string>/Users/thucao/Desktop/2/node_modules/react-native/ReactCommon/jsi/jsi.cpp</string>
-  <string>/Users/thucao/Desktop/2/node_modules/react-native/React/../ReactCommon/jsi/jsi-inl.h</string>
-  <string>/Users/thucao/Desktop/2/node_modules/react-native/React/../ReactCommon/jsi/jsi.h</string>
+  <string>/Users/thucao/Desktop/2/node_modules/react-native/ReactCommon/jsi/jsi-inl.h</string>
+  <string>/Users/thucao/Desktop/2/node_modules/react-native/ReactCommon/jsi/jsi.h</string>
   <string>/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include/c++/v1/type_traits</string>
  </array>
 </dict>
