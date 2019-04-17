@@ -7,6 +7,7 @@ export const searchDeals = (searchTerm = "") => {
 		try {
 			dispatch ({
 				type: C.SEARCH_DEALS,
+				searchTerm: searchTerm,
 				payload: await ajax.fetchDealSearchResults(searchTerm)
 			})
 		}

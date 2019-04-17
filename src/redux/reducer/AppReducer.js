@@ -9,6 +9,7 @@ var componentState = {
 const initialState = {
         deals: [],
         currentDealId: null,
+        searchTerm: "",
         state: componentState.initial,
         error: false,
         errorMessage: ""
@@ -25,6 +26,7 @@ export default appReducer = (state = initialState, action) => {
                 case C.SEARCH_DEALS:
                         return {
                                 ...state,
+                                searchTerm: action.searchTerm,
                                 deals: action.payload
                         }
                 case C.SHOW_DEAL_DETAIL:

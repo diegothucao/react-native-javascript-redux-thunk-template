@@ -15,6 +15,7 @@ class SearchBar extends React.Component {
       <TextInput
         placeholder="Search All Deals"
         style={styles.input}
+        value={this.props.searchTerm}
         onChangeText={this.handleChange}
       />
     )
