@@ -1,5 +1,6 @@
 import React from 'react'
 import { connect } from 'react-redux'
+import PropTypes from 'prop-types'
 import {fetchDetail} from '../redux/action/deal/DealDetailAction'
 import {
   View,
@@ -15,12 +16,19 @@ import { priceDisplay } from '../util/util'
 
 class DealDetail extends React.Component {
   
+  static propTypes = {
+    initialDealData: PropTypes.object.isRequired,
+    dealDetailData: PropTypes.object.isRequired,
+    fetchDetail: PropTypes.func.isRequired,
+    onBack: PropTypes.func.isRequired
+  }
+
   componentDidMount() {
     this.props.fetchDetail(this.props.initialDealData)
   }
 
   openDealUrl = () => {
-    Linking.openURL(this.props.deal.url)
+    Linking.openURL(this.props.dealDetailData.deal.url)
   }
 
   render() {
