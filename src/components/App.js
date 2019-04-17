@@ -3,6 +3,7 @@ import {
   View,
   StyleSheet,
 } from 'react-native'
+import PropTypes from 'prop-types'
 import DealList from './DealList'
 import DealDetail from './DealDetail'
 import SearchBar from './SearchBar'
@@ -10,6 +11,13 @@ import { connect } from 'react-redux'
 import { searchDeals, setCurrentDeal, unsetCurrentDeal } from '../redux/action/AppAction'
 
 class App extends React.Component {
+
+  static propTypes = {
+    appData: PropTypes.object.isRequired,
+    searchDeals: PropTypes.func.isRequired,
+    setCurrentDeal: PropTypes.func.isRequired,
+    unsetCurrentDeal: PropTypes.func.isRequired
+  }
 
   async componentWillMount() {
   }
@@ -35,14 +43,11 @@ class App extends React.Component {
         </View>
       )
     }
-    const dealsToDisplay =
-      this.props.appData.deals.length > 0
-        ? this.props.appData.deals
-        : []
+  
       return (
         <View style={styles.main}>
           <SearchBar searchDeals={this.props.searchDeals} searchTerm={this.props.appData.searchTerm} />
-          <DealList deals={dealsToDisplay} onItemPress={this.props.setCurrentDeal}  />
+          <DealList deals={this.props.appData.deals} onItemPress={this.props.setCurrentDeal}  />
         </View>
       )
   }
