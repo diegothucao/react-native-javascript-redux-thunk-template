@@ -1,4 +1,4 @@
-# react-native-javascript-redux-thunk-example
+# React Native with Javascript and Redux-thunk
 This is an essential example to build react-native app using Javascript and Redux Thunk
 
 Step to run
